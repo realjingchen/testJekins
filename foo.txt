@@ -1,8 +1,7 @@
 This is the test for jenkins.
 Jing
-<<<<<<< HEAD
+
 add one line
 add one more line.
 jing chen
-=======
 

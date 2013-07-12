@@ -1,4 +1,2 @@
 This is the test for jenkins.
 Jing
-add one line
-add one more line.

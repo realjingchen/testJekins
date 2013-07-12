@@ -2,3 +2,4 @@ This is the test for jenkins.
 Jing
 add one line
 add two lines
+add thrid line

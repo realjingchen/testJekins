@@ -1,8 +1,14 @@
 This is the test for jenkins.
 Jing
-
 add one line
-add one more line.
+77800c420df4ced0907b281b9f139996644e15de
+d8ddc0ef3cee3b2eefc193e164263efe637bc9a8
 
-I am crazy
+git@github.com:paperg/placelocal.git
 
+C:\Perl64\site\bin;C:\Perl64\bin;%SystemRoot%\system32;%SystemRoot%;
+%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;
+C:\Program Files\Amazon\cfn-bootstrap\;
+C:\Program Files\Java\jdk1.7.0_11\bin;C:\Program Files\TortoiseGit\bin;
+C:\Program Files (x86)\Git\cmd;
+C:\Program Files (x86)\Mozilla Firefox

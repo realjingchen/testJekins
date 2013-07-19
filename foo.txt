@@ -1,7 +1,6 @@
 This is the test for jenkins.
 Jing
 
-<<<<<<< HEAD
 hello
 =======
 add one line
@@ -9,4 +8,4 @@ add one more line.
 
 I am crazy
 
->>>>>>> 43b411dd3dcfc6ab90f0de996b3ff48873e04fe8
+
